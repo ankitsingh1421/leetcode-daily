@@ -10,9 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0856-score-of-parentheses) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
