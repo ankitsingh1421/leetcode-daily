@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
