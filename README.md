@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
