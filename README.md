@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0739-daily-temperatures](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [1254-number-of-closed-islands](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2409-count-days-spent-together) |
