@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
