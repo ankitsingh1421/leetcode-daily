@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
