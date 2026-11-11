@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0089-gray-code) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
