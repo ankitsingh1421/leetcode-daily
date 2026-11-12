@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0089-gray-code) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
