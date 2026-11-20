@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankitsingh1421/leetcode-daily/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsingh1421/leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsingh1421/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ankitsingh1421/leetcode-daily/tree/master/0095-unique-binary-search-trees-ii) |
 ## Recursion
 |  |
 | ------- |
